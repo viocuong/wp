@@ -1,0 +1,24 @@
+[03/Jun/2020:09:23:03] (ℹ️): WordPress Instance Info:
+[03/Jun/2020:09:23:03] (ℹ️): Home URL : http://localhost/wp
+[03/Jun/2020:09:23:03] (ℹ️): Site URL : http://localhost/wp
+[03/Jun/2020:09:23:03] (ℹ️): WordPress Version : 5.3.2
+[03/Jun/2020:09:23:03] (ℹ️): Onboarding Version : 1.8.2
+[03/Jun/2020:09:23:03] (ℹ️): Multisite : No
+[03/Jun/2020:09:23:03] (ℹ️): Server Info : Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3
+[03/Jun/2020:09:23:03] (ℹ️): PHP Version : 7.4.3
+[03/Jun/2020:09:23:03] (ℹ️): HTTPS : No
+[03/Jun/2020:09:23:03] (ℹ️): PHP Max Execution Time : 120
+[03/Jun/2020:09:23:03] (ℹ️): PHP Max Input Vars : 1000
+[03/Jun/2020:09:23:03] (ℹ️): Max Upload Size : 41943040
+[03/Jun/2020:09:23:03] (ℹ️): Plugins:
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] Contact Form 7 : v5.1.9 (Takayuki Miyoshi)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] Elementor : v2.9.10 (Elementor.com)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] Facebook for WooCommerce : v1.11.3 (Facebook)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] My WP Translate : v1.0.9 (MyThemeShop)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] Nextend Social Login : v3.0.24 (Nextendweb)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.8 (Themeisle)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] WooCommerce Blocks : v2.6.1 (Automattic)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] WooCommerce : v4.1.1 (Automattic)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] WooSidebars : v1.4.5 (WooCommerce)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] WP Mail SMTP : v1.9.0 (WPForms)
+[03/Jun/2020:09:23:03] (ℹ️): [PLUGIN] WPForms Lite : v1.6.0.2 (WPForms)

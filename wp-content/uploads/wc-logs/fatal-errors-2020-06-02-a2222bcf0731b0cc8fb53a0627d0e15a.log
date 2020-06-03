@@ -1,0 +1,6 @@
+2020-06-02T11:58:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\web\htdocs\wp\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-06-02T12:10:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\web\htdocs\wp\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-06-02T15:36:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\web\htdocs\wp\wp-includes\Requests\Transport\cURL.php on line 163
+
