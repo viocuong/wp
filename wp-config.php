@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'wp' );
 
 /** Username của database */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'cuongnguyen' );
 
 /** Mật khẩu của database */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'cuong28021999' );
 
 /** Hostname của database */
 define( 'DB_HOST', 'localhost' );
